@@ -1,5 +1,7 @@
 # [y2e.org](/)
 
+フレンチガーリー
+
 - [git.y2e.org](https://git.y2e.org/)
 - [misskey.y2e.org](https://misskey.y2e.org/)
 - [my.y2e.org](https://my.y2e.org/)
