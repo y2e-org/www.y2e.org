@@ -1,9 +1,6 @@
-# [yude.jp.eu.org](/)
+# [y2e.org](/)
 
-<ruby>不安定って、恋みたいね。<rp>（</rp><rt>Loves only you</rt><rp>）</rp></ruby>
-
-- [サービス](/svc)
-- [ホスト](/host)
-- [YUDETEL](/tel)
-- [メトリクス](/metrics)
-- [有象無象](/misc)
+- [git.y2e.org](https://git.y2e.org/)
+- [misskey.y2e.org](https://misskey.y2e.org/)
+- [my.y2e.org](https://my.y2e.org/)
+- [git-w.y2e.org](https://git-w.y2e.org/)
