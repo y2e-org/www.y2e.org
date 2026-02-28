@@ -7,3 +7,5 @@
 - [my.y2e.org](https://my.y2e.org/)
 - [git-w.y2e.org](https://git-w.y2e.org/)
 - [ticket.y2e.org](https://ticket.y2e.org/)
+
+More services are available on [yude.jp.eu.org](https://www.yude.jp.eu.org).
