@@ -3,6 +3,7 @@
 フレンチガーリー
 
 - [git.y2e.org](https://git.y2e.org/)
+- [w.y2e.org](https://w.y2e.org/)
 - [misskey.y2e.org](https://misskey.y2e.org/)
 - [my.y2e.org](https://my.y2e.org/)
 - [git-w.y2e.org](https://git-w.y2e.org/)
